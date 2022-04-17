@@ -22,3 +22,6 @@ This template contains 2 lambda functions triggered by an HTTP request made on t
  }
 
 - `/gettodo/{user_id}` route with `GET` method.
+
+## References
+- https://blog.logrocket.com/building-serverless-app-typescript/
